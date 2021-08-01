@@ -1,3 +1,7 @@
+*Trabalho Final da disciplina de Deep Learning.*
+
+Enunciado do Trabalho
+
 Classificação de textos para análise de sentimentos
 Base de dados
 
