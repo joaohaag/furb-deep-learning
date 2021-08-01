@@ -1,5 +1,9 @@
 Trabalho Final da disciplina de Deep Learning.
 
+Aluno: João Carlos Haag
+
+O código é baseado no projeto do keaggle: base: https://www.kaggle.com/arunmohan003/sentiment-analysis-using-lstm-pytorch
+
 Enunciado do Trabalho
 
 Classificação de textos para análise de sentimentos
